@@ -1,0 +1,7 @@
+-##Intro to parallel and Distributed programming |
+-##DistributedML |
+-##MLonEdge |
+-##MLOps |
+-##QuantumML |
+-##MLsoc
+
